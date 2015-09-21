@@ -8,24 +8,120 @@
       "id": 2
     },
     "11": {
+      "title": "Books",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "21st Century C",
+          "id": 12
+        },
+        "2": {
+          "title": "Test Driven Development In Embedded C",
+          "id": 13
+        },
+        "3": {
+          "title": "C - A Modern Approach",
+          "id": 14
+        }
+      }
+    },
+    "0.5": {
       "title": "About Me",
       "id": 3,
       "ideas": {
-        "1": {
-          "title": "C and me is a convenience marriage (Zweck Ehe)",
-          "id": 5
+        "0.5": {
+          "title": "Application development in a legacy system",
+          "id": 10
         },
-        "2": {
-          "title": "4 years of exploring ways to write high level C",
-          "id": 6
-        },
-        "3": {
+        "0.75": {
           "title": "I am not a kernel hacker",
           "id": 7
         },
+        "0.625": {
+          "title": "C and me is a convenience marriage (Zweck Ehe)",
+          "id": 5
+        },
+        "0.5625": {
+          "title": "4 years of exploring ways to write high level C",
+          "id": 6
+        }
+      }
+    },
+    "-1": {
+      "title": "Techniques",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "Object Orientation",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Singleton",
+              "id": 21
+            },
+            "2": {
+              "title": "C Object",
+              "id": 22
+            },
+            "3": {
+              "title": "\"Interfaces and their implementation\"",
+              "id": 23
+            }
+          }
+        },
+        "2": {
+          "title": "Error Handling",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "return code ",
+              "id": 24
+            },
+            "2": {
+              "title": "Error object (like GLib)",
+              "id": 25
+            },
+            "3": {
+              "title": "a case for \"goto\"",
+              "id": 26
+            }
+          }
+        },
+        "3": {
+          "title": "Data Structures",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "array of structs - NULL terminated",
+              "id": 28
+            },
+            "2": {
+              "title": "GLib",
+              "id": 29
+            }
+          }
+        },
         "4": {
-          "title": "Application development in a lagacy system",
-          "id": 10
+          "title": "designated initializers",
+          "id": 27
+        },
+        "1.5": {
+          "title": "Test Driven Development",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "assert",
+              "id": 30
+            },
+            "2": {
+              "title": "cppuTest",
+              "id": 31
+            }
+          }
+        },
+        "0.5": {
+          "title": "File naming patterns",
+          "id": 32
         }
       }
     }
