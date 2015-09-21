@@ -1,5 +1,33 @@
 {
-  "title": "Modern C sdsd",
+  "title": "Modern C",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "It's not your fathers C",
+      "id": 2
+    },
+    "11": {
+      "title": "About Me",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "C and me is a convenience marriage (Zweck Ehe)",
+          "id": 5
+        },
+        "2": {
+          "title": "4 years of exploring ways to write high level C",
+          "id": 6
+        },
+        "3": {
+          "title": "I am not a kernel hacker",
+          "id": 7
+        },
+        "4": {
+          "title": "Application development in a lagacy system",
+          "id": 10
+        }
+      }
+    }
+  }
 }
