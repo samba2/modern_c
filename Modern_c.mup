@@ -34,14 +34,6 @@
       "title": "About Me",
       "id": 3,
       "ideas": {
-        "0.5": {
-          "title": "Application development in a legacy system",
-          "id": 10
-        },
-        "0.75": {
-          "title": "I am not a kernel hacker",
-          "id": 7
-        },
         "0.625": {
           "title": "C and me is a convenience marriage (Zweck Ehe)",
           "id": 5
@@ -49,6 +41,31 @@
         "0.5625": {
           "title": "4 years of exploring ways to write high level C",
           "id": 6
+        },
+        "1.75": {
+          "title": "Scope",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "not embedded running on every system (need to deal with HW)",
+              "id": 62
+            },
+            "4": {
+              "title": "Application development in a legacy system",
+              "id": 10,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "5": {
+              "title": "I am not a kernel hacker",
+              "id": 7,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
         }
       }
     },
