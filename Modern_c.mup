@@ -7,21 +7,26 @@
       "title": "It's not your fathers C",
       "id": 2
     },
-    "11": {
-      "title": "Books",
-      "id": 11,
+    "2": {
+      "title": "Backup",
+      "id": 59,
       "ideas": {
         "1": {
-          "title": "21st Century C",
-          "id": 12
-        },
-        "2": {
-          "title": "Test Driven Development In Embedded C",
-          "id": 13
-        },
-        "3": {
-          "title": "C - A Modern Approach",
-          "id": 14
+          "title": "Test Driven Development",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "assert",
+              "id": 30
+            },
+            "2": {
+              "title": "cppuTest",
+              "id": 31
+            }
+          },
+          "attr": {
+            "style": {}
+          }
         }
       }
     },
@@ -38,7 +43,7 @@
           "id": 7
         },
         "0.625": {
-          "title": "C and me is a convenience marriage (Zweck Ehe)",
+          "title": "C and me is a convenienceÂ marriage (Zweck Ehe)",
           "id": 5
         },
         "0.5625": {
@@ -47,83 +52,169 @@
         }
       }
     },
-    "-1": {
-      "title": "Techniques",
-      "id": 16,
+    "-2": {
+      "title": "Presentation structure",
+      "id": 33,
       "ideas": {
         "1": {
-          "title": "Object Orientation",
-          "id": 17,
+          "title": "Punk Rock Language",
+          "id": 34,
           "ideas": {
             "1": {
-              "title": "Singleton",
-              "id": 21
+              "title": "Ramones Picture",
+              "id": 40
             },
             "2": {
-              "title": "C Object",
-              "id": 22
-            },
-            "3": {
-              "title": "\"Interfaces and their implementation\"",
-              "id": 23
+              "title": "Why Is C a Punk Rock Language",
+              "id": 41
             }
           }
         },
         "2": {
-          "title": "Error Handling",
-          "id": 18,
+          "title": "Structure",
+          "id": 35,
           "ideas": {
             "1": {
-              "title": "return code ",
-              "id": 24
+              "title": "Objects In C",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": "Singleton",
+                  "id": 21,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "2": {
+                  "title": "C Object",
+                  "id": 22,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "0.5": {
+                  "title": "File naming patterns",
+                  "id": 32,
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
             },
             "2": {
-              "title": "Error object (like GLib)",
-              "id": 25
+              "title": "Interfaces And Their Implementation",
+              "id": 39
             },
-            "3": {
-              "title": "a case for \"goto\"",
-              "id": 26
+            "0.5": {
+              "title": "On Information Hiding quote",
+              "id": 60
             }
           }
         },
         "3": {
-          "title": "Data Structures",
-          "id": 19,
+          "title": "\"Standing On The Shoulder Of Giants\"",
+          "id": 36,
           "ideas": {
             "1": {
-              "title": "array of structs - NULL terminated",
-              "id": 28
-            },
-            "2": {
               "title": "GLib",
-              "id": 29
+              "id": 29,
+              "attr": {
+                "style": {}
+              }
+            },
+            "0.5": {
+              "title": "Picture of Structure + Interpretation ... book - abstraction layers",
+              "id": 58
             }
           }
         },
         "4": {
-          "title": "designated initializers",
-          "id": 27
-        },
-        "1.5": {
-          "title": "Test Driven Development",
-          "id": 20,
+          "title": "Syntactical Sugar",
+          "id": 37,
           "ideas": {
             "1": {
-              "title": "assert",
-              "id": 30
+              "title": "Error Handling",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "return code ",
+                  "id": 24
+                },
+                "2": {
+                  "title": "Error object (like GLib)",
+                  "id": 25
+                },
+                "3": {
+                  "title": "a case for \"goto\"",
+                  "id": 26
+                }
+              },
+              "attr": {
+                "style": {}
+              }
             },
             "2": {
-              "title": "cppuTest",
-              "id": 31
+              "title": "designated initializers ??",
+              "id": 27,
+              "attr": {
+                "style": {}
+              }
             }
           }
         },
-        "0.5": {
-          "title": "File naming patterns",
-          "id": 32
+        "5": {
+          "title": "Books",
+          "id": 11,
+          "ideas": {
+            "4": {
+              "title": "Introduction - C A Modern Approach",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "Structure - Test Driven Development In Embedded C",
+                  "id": 46
+                },
+                "2": {
+                  "title": "Syntactical Sugar  - 21st Century C",
+                  "id": 47
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "4.5": {
+          "title": "My Personal Conventions",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "rarely use Macros - adds one more indirection in my head",
+              "id": 51
+            },
+            "2": {
+              "title": "try to keep it plain C pimped with modern libraries - but not a new language (GOBject/ GTK,  libcello)",
+              "id": 57
+            },
+            "0.5": {
+              "title": "code for the programmer after me - not the machine",
+              "id": 52
+            }
+          }
+        },
+        "4.25": {
+          "title": "Development Environment",
+          "id": 54,
+          "ideas": {
+            "1": {
+              "title": "Eclipse CDT/ PTP showcase",
+              "id": 56
+            }
+          }
         }
       }
     }
-  }
+  },
+  "links": []
 }
