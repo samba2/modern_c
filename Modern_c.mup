@@ -125,6 +125,16 @@
             "0.5": {
               "title": "On Information Hiding quote",
               "id": 60
+            },
+            "0.75": {
+              "title": "Opaque types",
+              "id": 63,
+              "ideas": {
+                "1": {
+                  "title": "example: apple https://developer.apple.com/library/prerelease/mac/documentation/CoreFoundation/Reference/CoreFoundation_Collection/",
+                  "id": 64
+                }
+              }
             }
           }
         },
