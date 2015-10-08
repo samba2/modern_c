@@ -65,8 +65,16 @@
                 "style": {}
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-2": {
@@ -85,6 +93,10 @@
               "title": "Why Is C a Punk Rock Language",
               "id": 41
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "2": {
@@ -136,6 +148,10 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "3": {
