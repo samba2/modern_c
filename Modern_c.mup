@@ -169,6 +169,10 @@
               "title": "Picture of Structure + Interpretation ... book - abstraction layers",
               "id": 58
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "4": {
@@ -225,7 +229,8 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
         },
         "4.5": {
@@ -244,6 +249,10 @@
               "title": "code for the programmer after me - not the machine",
               "id": 52
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "4.25": {
